@@ -15,5 +15,4 @@ public class TriangoloRettangolo : Rettangolo
     {
         return (Base * Altezza) / 2;
     }
-
 }
